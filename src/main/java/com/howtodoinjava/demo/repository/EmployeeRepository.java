@@ -8,5 +8,8 @@ import com.howtodoinjava.demo.model.EmployeeEntity;
 @Repository
 public interface EmployeeRepository
         extends JpaRepository<EmployeeEntity, Long> {
+
+
+
  
 }
